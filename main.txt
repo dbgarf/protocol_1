@@ -2131,7 +2131,7 @@ Also, some people are turned off by the "crank"/"cranking"/"turning the crank" m
 practice:
 
 >>>
-> […] >  I claim that one can't just pick a method and push that button until the end. One eventually has to transcend whatever instructions they're doing to find the "real feedback loops and gradients" that the words are trying to point at.
+> […]>  I claim that one can't just pick a method and push that button until the end. One eventually has to transcend whatever instructions they're doing to find the "real feedback loops and gradients" that the words are trying to point at.
 > [For what it’s worth], my method is intended to painstakingly direct people to the really real feedback loops they’re actually using to bootstrap them to doing an ever-better thing behind the thing.
 > (1) The Main practices (abstractly specified, closed set, concretely instantiable in each moment)
 > (2) Prelim/Aux practices (call out degrees of freedom to feed into the main practices)
